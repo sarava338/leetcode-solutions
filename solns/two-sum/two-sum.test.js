@@ -1,4 +1,4 @@
-const TwoSum = require('leetcode-solutions/soln/two-sum.js')
+const TwoSum = require('./two-sum.js')
 
 describe("two sum tests", () => {
 
